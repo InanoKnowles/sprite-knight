@@ -3,12 +3,12 @@ Our first team project with General Assembly was to create a Single Page Applica
 
 Members: [Sakal](https://github.com/sakalmon), [Mark](https://github.com/Lozlink), [Adam](https://github.com/Onneqq) and [Inano](https://github.com/InanoKnowles).
 
-## ABOUT
+##  :pushpin: ABOUT
 
 We are working towards a Single Page Application that allows users to create their own characters. These characters can level up, adjust abilities, do what RPG games do. After some time bouncing ideas around and trying to be as realistic as possible - We have decided to water the general idea down.
 We are now aiming to make a game that is similar to idle clicker games. The theme is: *pixelated RPG*.
 
-How to use our awesome project:
+ :sparkles: How to use our awesome project: :sparkles:
 1. Open browser
 2. Sign up
 3. Log in
@@ -22,6 +22,7 @@ We used the following tech'n'tools:
 - HTML
 - JavaScript
 - CSS
+- Express 
 - DOM Manipulation
 - iTerm2
 - Node js
@@ -32,12 +33,15 @@ We used the following tech'n'tools:
 - Slack
 - Zoom
 - Canva
+- VSCode
 
 ## :pencil2: Planning & Problem Solving
 
 Discussing every detail of the day, agreeing on to-do lists and being realistically honest before working on anything what our general approach as a team. 
 
 Planning what we needed to do was really useful when we started to think about WHO the game would be used by. Which led us to learn about User Stories. Did you know that User Stories can guide you as requirements that turn into features that you can implement inside your app? 
+
+WHo our users are, what do they want and why:
 
 ![Screenshot 2023-01-19 at 11 17 10 pm](https://user-images.githubusercontent.com/116997107/213452758-84460753-8081-48f9-9103-854bb5956982.png)
 
@@ -63,27 +67,56 @@ We're not gonna sit here and lie - There were challenges.
 
 There were moments when we thought maybe we were WAY in over our heads. 
 
-There were times when one of us (cough cough) had to delete their repo on multiple occassions due to human error.
+There were times when one of us had to delete their repo on multiple occassions.
 
-The biggest hurdle we had was learning how to add, commit, fetch, rebase and push as upstream or downstream members and overcoming the fears of what if this push is the one to destroy everything.
+The biggest hurdle we had was learning how to add, commit, fetch, rebase and push AS upstream OR downstream members and overcoming the fears of "what if this push is the one to destroy everything?" 
 
 However, each individual was able to shine where their strengths were - Taking turns to teach each other new things and building confidence as a team to try new things and challenge ourselves. Everyday was one filled with just the right balance of challenges and excitement.
 
+## :sunglasses: Most Enjoyable Features or Tasks:  :two_hearts:
+
+For Sakal - Enjoyed the API creation. Writing code that allowed the front end to communicate with the backend to get a response back.
+
+For Mark - Enjoyed the API creation as well because it allowed him to create things that were unique.
+
+For Adam - Enjoyed the fight logic behind our Fight Events because he got to learn more about DOM manipulatino.
+
+For Inano - Enjoyed seeing how visual mockups and wireframes became real features from this she understood the power of planning before doing tasks.
+
+##  :file_folder: Database Tables:
+
+You can create your own character:
+
+|  char_name | gender  | age  | level  | url  |
+|---|---|---|---|---|
+|  generic male | male   | 13 | 80   | secret  |
+| generic female | female  | 33  | 70  | secret  |
+
+How we planned leveling up, due to time we couldn't reach this scope.
+  
+|  mon_name | difficulty   | drops   | health  | url  |
+|---|---|---|---|---|
+|  Golem | gold   | Gold Sword  | 80   | secret  |
+|  Skeleton | silver  | Silver Sword  | 70  | secret  |
+|  Mushroom | bronze  |  Bronze Sword | 40  |  secret |
+
+
 ## :scream: Bugs to fix :poop:
-- When you first click on your character you have to wait a few seconds before the gaming buttons appear,
 - Some content is left aligned,
 - The browser looks beautiful on only one person's pc on a specific monitor,
 - Mute and toggle off music button didn't work,
-- More features than time allows,
+- User experience
 - Some content remains through out the game when it shouldn't,
 - Some clicks work and others take 3-10 seconds to register...
-Just to name a few.
+- Render player wins and monster wins
+- When you refresh browser you stay logged in and can play the game
 
 ## :sob: Lessons learnt
-- it's okay to have weaknesses and talk about them,
-- when you have an idea, break it down into small steps then break those steps down into tiny steps,
-- patience is a virtue, 
-- teamwork is great when everyone remains calm and communicates,
+- How much of a pain pushing to github can be,
+- It's okay to have weaknesses and talk about them,
+- When you have an idea, break it down into small steps then break those steps down into tiny steps,
+- Patience is a virtue, 
+- Teamwork is great when everyone remains calm and communicates,
 - ONE step AT A TIME,
 - Not everything that works in node and browser works for the client in different browsers
 
