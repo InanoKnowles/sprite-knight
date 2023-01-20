@@ -37,9 +37,9 @@ We used the following tech'n'tools:
 
 ## :pencil2: Planning & Problem Solving
 
-Discussing every detail of the day, agreeing on to-do lists and being realistically honest before working on anything what our general approach as a team. 
+Our general approach as a team was discussing every detail of the day, agreeing on to-do lists and being realistic and brutally honest about our skills before working on anything.
 
-Planning what we needed to do was really useful when we started to think about WHO the game would be used by. Which led us to learn about User Stories. Did you know that User Stories can guide you as requirements that turn into features that you can implement inside your app? 
+Planning what we needed to do was really useful when we started to think about WHO the game would be used by (Generally anyone who can use a browser indepentantly). Which led us to learn about User Stories. Did you know that User Stories can guide you as requirements that turn into features that you can implement inside your app? 
 
 WHo our users are, what do they want and why:
 
@@ -73,6 +73,17 @@ The biggest hurdle we had was learning how to add, commit, fetch, rebase and pus
 
 However, each individual was able to shine where their strengths were - Taking turns to teach each other new things and building confidence as a team to try new things and challenge ourselves. Everyday was one filled with just the right balance of challenges and excitement.
 
+## :scream: Bugs to fix :poop:
+- Some content is left aligned,
+- The browser looks beautiful on only one person's pc on a specific monitor,
+- Mute and toggle off music button didn't work,
+- User experience doesn't completely flow,
+- Some content remains through out the game when it shouldn't,
+- Some clicks work and others take 3-10 seconds to register...
+- Render player wins and monster wins,
+- When you refresh browser you stay logged in and can play the game[fixed],
+- How much of a pain pushing to github can be,
+
 ## :sunglasses: Most Enjoyable Features or Tasks:  :two_hearts:
 
 For Sakal - Enjoyed the API creation. Writing code that allowed the front end to communicate with the backend to get a response back.
@@ -100,19 +111,7 @@ How we planned leveling up, due to time we couldn't reach this scope.
 |  Skeleton | silver  | Silver Sword  | 70  | secret  |
 |  Mushroom | bronze  |  Bronze Sword | 40  |  secret |
 
-
-## :scream: Bugs to fix :poop:
-- Some content is left aligned,
-- The browser looks beautiful on only one person's pc on a specific monitor,
-- Mute and toggle off music button didn't work,
-- User experience
-- Some content remains through out the game when it shouldn't,
-- Some clicks work and others take 3-10 seconds to register...
-- Render player wins and monster wins
-- When you refresh browser you stay logged in and can play the game
-
 ## :sob: Lessons learnt
-- How much of a pain pushing to github can be,
 - It's okay to have weaknesses and talk about them,
 - When you have an idea, break it down into small steps then break those steps down into tiny steps,
 - Patience is a virtue, 
@@ -128,4 +127,7 @@ How we planned leveling up, due to time we couldn't reach this scope.
 - Armour and Accessory upgrades,
 - Definitely responsive design,
 - Animations would be awesome,
-- A bit more story telling aspects so theres a mission.
+- A bit more story telling aspects so theres a mission,
+- When character or monster is hit the box containing them bounces and has visual hit "special effects" appear on the boxes for more obvious changes,
+- Accessibility features,
+- 
