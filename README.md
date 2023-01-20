@@ -84,6 +84,7 @@ However, each individual was able to shine where their strengths were - Taking t
 - When you refresh browser you stay logged in and can play the game[fixed],
 - How much of a pain pushing to github can be,
 
+
 ## :sunglasses: Most Enjoyable Features or Tasks:  :two_hearts:
 
 For Sakal - Enjoyed the API creation. Writing code that allowed the front end to communicate with the backend to get a response back.
@@ -130,4 +131,3 @@ How we planned leveling up, due to time we couldn't reach this scope.
 - A bit more story telling aspects so theres a mission,
 - When character or monster is hit the box containing them bounces and has visual hit "special effects" appear on the boxes for more obvious changes,
 - Accessibility features,
-- 
